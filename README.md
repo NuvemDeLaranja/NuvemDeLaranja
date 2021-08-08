@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NuvemDeLaranja
+- 👀 I’m interested in create discord bots
+- 🌱 I’m currently learning typescript
